@@ -1,0 +1,19 @@
+{
+  "name": "preact-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "htm": "^3.1.1",
+    "preact": "^10.10.0",
+    "preact-custom-element": "^4.2.1"
+  },
+  "alias": {
+    "preact/jsx-dev-runtime": "preact/jsx-runtime"
+  }
+}
